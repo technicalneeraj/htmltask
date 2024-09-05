@@ -1,0 +1,93 @@
+body{
+    background:url("justin-eisner-ZOG7Zj7cfR8-unsplash\ 1.png");
+    background-color: blue;
+    font-family: inter;
+}
+
+
+.bigger{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.hello{
+    font-size: 3rem;
+    color: white;
+    font-weight: 600;
+}
+.keep{
+    font-size: 2rem;
+    font-weight: 400;
+    color: white;
+}
+button{
+    background: linear-gradient(90deg, #2CDEB4 0%, rgba(25, 194, 154, 0.90625) 99.99%, rgba(19, 202, 158, 0) 100%);
+    padding: 1rem;
+    color: white;
+    width: 100%;
+    font-size: 1rem ;
+    font-weight: 500;
+    
+}
+
+.detailslogin{
+    font-size: 2rem;
+    font-weight: 600;
+}
+.emailinput{
+    padding: 1rem;
+    background: #1E57B51A;
+    width: 100%;
+    font-size: 2rem;
+
+}
+.signup{
+    color: lightseagreen;
+}
+.account{
+    text-decoration: underline;
+    padding-top: 2rem;
+}
+.forgot{
+    text-decoration: underline;
+    text-align: right;
+    font-size: 1rem;
+}
+.logo{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.grey{
+    color: #8E8E8E;
+    font-size: 1rem;
+    padding-bottom: 0.5rem;
+    font-weight: 600;
+
+}
+.email{
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+}
+.passinput{
+    background: url("Vector.png");
+    background-position: 95% 50%;
+    background-repeat: no-repeat;
+}
+
+.login{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.right{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    padding: 5rem;
+    border-radius: 50px;
+    font-size: 2rem;
+    margin-top: 2rem;
+}
